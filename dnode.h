@@ -5,7 +5,7 @@
 // TYPEDEF for the dnode class: 
 //     Each node of the list contains a piece of data and a pointers to the
 //     previous and next nodes. The type of the data is defined as
-//     dnode::value_type in a typedef statement. The value_type may be any
+//     dnode::value_type in a typedef statement. The value_type may be any 
 //     of the built-in C++ classes (int, char, ...) or a class with a copy
 //     constructor, an assignment operator, and a test for equality (x == y).
 //
