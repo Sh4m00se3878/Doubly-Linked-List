@@ -1,4 +1,4 @@
-# Doubly Linked List
+# Doubly Linked List 
 -Created a dnode.cpp file which contains all of the function definitions for a Doubly Linked List class.
 -Function definitions are as follows: 
 // FILE: dnode.h
