@@ -2,7 +2,7 @@
 // PROVIDES: A class for a node in a doubly linked list, and list manipulation
 // functions, all within the namespace main_savitch_5
 //
-// TYPEDEF for the dnode class:
+// TYPEDEF for the dnode class: 
 //     Each node of the list contains a piece of data and a pointers to the
 //     previous and next nodes. The type of the data is defined as
 //     dnode::value_type in a typedef statement. The value_type may be any
