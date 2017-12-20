@@ -115,7 +115,7 @@ const dnode* list_search(const dnode* head_ptr, const value_type& target) {
 dnode* list_locate(dnode* head_ptr, size_t position) {
 	dnode *cursor;
 	size_t i;
-    
+     
 	assert (0 < position);
 	cursor = head_ptr;
 	for (i = 1; (i < position) && (cursor != NULL); i++)
